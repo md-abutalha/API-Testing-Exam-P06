@@ -1,4 +1,4 @@
-### Automated-The-Testing-World-Api-Testing (API-Testing-Exam)-with-Newman-Report
+### Automated-The-Testing-World-Api-Testing-(API-Testing-Exam)-with-Newman-Report
 
 This project showcases API testing with Postman, featuring a comprehensive set of tests to ensure the accuracy and reliability of different API endpoints.
 
