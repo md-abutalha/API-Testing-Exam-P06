@@ -525,7 +525,7 @@ pm.test("Validate House Number, City, Country, and Mobile", function () {
     }
 }
 ```
-## _**Newman Reports**_
+## _**Newman Report**_
 ![1](https://github.com/user-attachments/assets/d49a3522-7b99-461a-b5f5-345b1a0f27a3)
 ![2](https://github.com/user-attachments/assets/5eab6f4c-beab-4598-ae4e-98e08e7176b9)
 ![3](https://github.com/user-attachments/assets/9b931de6-1ce8-4661-a599-e7e0e9d814a3)
